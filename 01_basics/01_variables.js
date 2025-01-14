@@ -2,7 +2,17 @@ const accountId = 1234
 let accountEmail = "hrllo@google.com"
 var accountPassword = "12345"
 accountCity = "Mumbai"
+
+const accountId = 1234
+let accountEmail = "hrllo@google.com"
+var accountPassword = "12345"
+accountCity = "Mumbai"
 let accountState;
+
+
+accountId = 2
+
+console.log(accountId);
 
 // accountId = 2 // not allowed
 

@@ -1,5 +1,15 @@
+<<<<<<< HEAD
+let score = 33
+=======
 let score = "bhavika" //true //undefined //null //"33abc"
+>>>>>>> 93dbcbcc62ba21870e62879266bbb45622707ca8
 
+<<<<<<< HEAD
+console.log(typeof score);
+console.log(typeof(score));
+
+
+=======
 console.log(typeof score);
 console.log(typeof(score));
 
@@ -14,3 +24,4 @@ console.log(valueInNumber);
 let isLoggedIn = 1
 
 let booleanIsLoggedIn = 
+>>>>>>> 93dbcbcc62ba21870e62879266bbb45622707ca8

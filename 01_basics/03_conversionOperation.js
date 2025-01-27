@@ -1,21 +1,16 @@
-<<<<<<< HEAD
 let score = 33
-=======
-let score = "bhavika" //true //undefined //null //"33abc"
->>>>>>> 93dbcbcc62ba21870e62879266bbb45622707ca8
 
-<<<<<<< HEAD
-console.log(typeof score);
-console.log(typeof(score));
+// let score = "bhavika" //true //undefined //null //"33abc"
 
+// console.log(typeof score);
+// console.log(typeof(score));
 
-=======
-console.log(typeof score);
-console.log(typeof(score));
+// console.log(typeof score);
+// console.log(typeof(score));
 
 let valueInNumber = Number(score);
-console.log(typeof valueInNumber);
-console.log(valueInNumber);
+// console.log(typeof valueInNumber);
+// console.log(valueInNumber);
 
 // "33" => 33
 // "33abc" => NaN
@@ -23,5 +18,7 @@ console.log(valueInNumber);
 
 let isLoggedIn = 1
 
-let booleanIsLoggedIn = 
->>>>>>> 93dbcbcc62ba21870e62879266bbb45622707ca8
+let booleanIsLoggedIn = Boolean(isLoggedIn)
+let stringNumber = String(score)
+console.log(stringNumber);
+console.log(typeof stringNumber);

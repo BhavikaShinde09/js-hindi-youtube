@@ -35,13 +35,18 @@ console.log(typeof null);
 
 
 
+<<<<<<< HEAD
 //******************************************************************************
+=======
+//*************************************************************************** 
+>>>>>>> origin/main
 
 // Stack (Primitive), Heap (Non-Primitive)
 
 let myYoutubename = "bhavikashindedotcom"
 
 let anothername = myYoutubename
+<<<<<<< HEAD
 anothername = "coffeewithcode"
 
 console.log(myYoutubename);
@@ -58,3 +63,7 @@ let userTwo = userOne
 
 // console.log(userOne.email);
 // console.log(userTwo.email);
+=======
+
+console.log(anothername)
+>>>>>>> origin/main

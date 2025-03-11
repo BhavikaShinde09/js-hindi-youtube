@@ -6,3 +6,6 @@
 
 console.log(typeof null); // null is an object some also consider it an language error
 console.log(typeof null); // undefined
+
+
+
